@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohini257
+- 👋 Hi, I’m Mohini Sultana 
 - 👀 I am interested in collaborating with someone new on data annotation.
 - 🌱 I’m currently learning in CSE.
 - 💞️ I’m looking to collaborate on new people.
